@@ -1,3 +1,4 @@
+//Bikeshowroom using classess,objects and methods
 import java.util.Scanner;
 class Bike
 {
@@ -478,7 +479,6 @@ public class BikeShowroom {
      {
          System.out.println("Please Select only 1 or 2");
      }
-    
     }
     
 }
